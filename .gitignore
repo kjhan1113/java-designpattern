@@ -1,0 +1,29 @@
+# Maven
+target/
+!.mvn/timing.properties
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+# Eclipse
+.metadata/
+.classpath
+.project
+bin/
+*.pyc
+
+# IDE files
+*.iml
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper
+.mvn/
+
