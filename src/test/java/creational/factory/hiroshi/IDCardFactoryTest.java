@@ -12,7 +12,7 @@ class IDCardFactoryTest {
 	private IDCardFactory factory;
 	
 	@BeforeEach
-	public void setUp() {
+	void setUp() {
 		factory = new IDCardFactory();
 	}
 	
